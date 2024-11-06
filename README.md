@@ -10,31 +10,46 @@ The analysis uses the DS Salaries dataset containing information about:
 - Employment types
 - Remote work ratios
 
+**Data Source:** [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+
 ## Visualizations
 The dashboard includes:
-1. Average Salary by job title and Experience level
-2. Average Salary in USD by Experience level and Employment type
-3. Employment Type Distribution
-4. Experience Level Distribution
-5. Geographic Salary Distribution
-6. Top 10 Employee Residences
-7. Companies by Size and Location
+1. Average Salary by job title and Experience level - Heat map showing salary distribution
+2. Average Salary in USD by Experience level and Employment type - Shape chart showing trends
+3. Employment Type Distribution - Pie chart showing distribution of employment types
+4. Experience Level Distribution - Pie chart showing experience level breakdown
+5. Geographic Salary Distribution - World map showing average salaries by country
+6. Top 10 Employee Residences - Bar chart showing top employee locations
+7. Companies by Size and Location - Pie chart showing company size distribution
 
 ## Tools Used
 - Tableau Desktop 2024.1
-- Dataset: ds_salaries.csv - https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+- Dataset: ds_salaries.csv
 
 ## How to Use
 1. Download the Tableau workbook
 2. Open in Tableau Desktop/Reader
-3. Open Dashboard workboook in presenattion mode for interaction
+3. Open Dashboard workbook in presentation mode for interaction
 4. Interactive features:
-   - Filter by Company Location
-   - Filter by Job Title
-   - Hover over visualizations for detailed information
+   - Filter by Company Location using dropdown
+   - Filter by Job Title using dropdown
+   - Hover over visualizations for detailed tooltips
+   - Click on legends to filter specific categories
+
+## Key Insights
+- Salary trends vary significantly across different experience levels
+- Full-time employment is the dominant employment type
+- Geographic location plays a crucial role in salary differences
+- Company size correlates with salary ranges
 
 ## Screenshots
-[Salary_Analysis_Tableau_Dashboard.png](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/12f94ddcf376fd6279fd1e304e1975a42002961e/Salary_Analysis_Tableau_Dashboard.png)
+![Salary Analysis Dashboard](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/12f94ddcf376fd6279fd1e304e1975a42002961e/Salary_Analysis_Tableau_Dashboard.png)
 
 ## Author
-[Mugdha Karodkar]
+**Mugdha Karodkar**
+
+## License
+This project is open-source and available under the MIT License.
+
+---
+*Last Updated: November 2024*
