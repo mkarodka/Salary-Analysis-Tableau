@@ -48,8 +48,5 @@ The dashboard includes:
 ## Author
 **Mugdha Karodkar**
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 *Last Updated: November 2024*
