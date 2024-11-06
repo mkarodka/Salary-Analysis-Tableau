@@ -22,12 +22,13 @@ The dashboard includes:
 
 ## Tools Used
 - Tableau Desktop 2024.1
-- Dataset: ds_salaries.csv
+- Dataset: ds_salaries.csv - https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 
 ## How to Use
 1. Download the Tableau workbook
 2. Open in Tableau Desktop/Reader
-3. Interactive features:
+3. Open Dashboard workboook in presenattion mode for interaction
+4. Interactive features:
    - Filter by Company Location
    - Filter by Job Title
    - Hover over visualizations for detailed information
