@@ -27,7 +27,7 @@ The dashboard includes:
 - Dataset: ds_salaries.csv
 
 ## How to Use
-1. Download the Tableau workbook
+1. Download the Tableau workbook - https://github.com/mkarodka/Salary-Analysis-Tableau/blob/4c2e384490a19a7d385b65d06d17f15413ace402/Salary_Analysis_Tableau_Dashboard.twb
 2. Open in Tableau Desktop/Reader
 3. Open Dashboard workbook in presentation mode for interaction
 4. Interactive features:
