@@ -34,7 +34,7 @@ The dashboard includes:
    - Hover over visualizations for detailed information
 
 ## Screenshots
-Salary_Analysis_Tableau_Dashboard.png
+[Salary_Analysis_Tableau_Dashboard.png](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/12f94ddcf376fd6279fd1e304e1975a42002961e/Salary_Analysis_Tableau_Dashboard.png)
 
 ## Author
 [Mugdha Karodkar]
