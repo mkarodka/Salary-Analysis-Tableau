@@ -27,14 +27,23 @@ The dashboard includes:
 - Dataset: ds_salaries.csv
 
 ## How to Use
-1. Download the Tableau workbook - https://github.com/mkarodka/Salary-Analysis-Tableau/blob/4c2e384490a19a7d385b65d06d17f15413ace402/Salary_Analysis_Tableau_Dashboard.twb
-2. Open in Tableau Desktop/Reader
+1. Download the Tableau workbook from [here](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/4c2e384490a19a7d385b65d06d17f15413ace402/Salary_Analysis_Tableau_Dashboard.twb)
+2. Open in Tableau Desktop/Reader (2024.1 or later version)
 3. Open Dashboard workbook in presentation mode for interaction
 4. Interactive features:
    - Filter by Company Location using dropdown
    - Filter by Job Title using dropdown
    - Hover over visualizations for detailed tooltips
    - Click on legends to filter specific categories
+
+Note: To view the dashboard, you'll need:
+- Tableau Desktop or
+- Free Tableau Reader (download from [Tableau's website](https://www.tableau.com/products/reader))
+
+System Requirements:
+- Windows 10 or later / macOS 10.15 or later
+- 4GB RAM minimum (8GB recommended)
+- 1.5GB free disk space minimum
 
 ## Key Insights
 - Salary trends vary significantly across different experience levels
