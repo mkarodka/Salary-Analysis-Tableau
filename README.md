@@ -11,6 +11,7 @@ The analysis uses the DS Salaries dataset containing information about:
 - Remote work ratios
 
 **Data Source:** [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+
 **Extracted Data:** [Data Science Job Salaries](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/808a79b45775c0cbcc8e521db7f87b7dc84b8e39/ds_salaries.hyper)
 
 ## Project Links:
