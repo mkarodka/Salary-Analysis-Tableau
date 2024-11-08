@@ -28,7 +28,6 @@ The dashboard includes:
 
 ## Project Links:
 - 🎯 Interactive Dashboard on Tableau Public: https://lnkd.in/gzAn3ECp
-- 📊 GitHub Repository: https://lnkd.in/gf89DciJ 
 - 👥 LinkedIn: https://lnkd.in/gHqdDG4a
 
 ## How to Use
