@@ -15,8 +15,8 @@ The analysis uses the DS Salaries dataset containing information about:
 **Extracted Data:** [Data Science Job Salaries](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/808a79b45775c0cbcc8e521db7f87b7dc84b8e39/ds_salaries.hyper)
 
 ## Project Links:
-- 🎯 Interactive Dashboard on Tableau Public: https://lnkd.in/gzAn3ECp
-- 👥 LinkedIn: https://lnkd.in/gHqdDG4a
+- 🎯 [Interactive Dashboard on Tableau Public](https://lnkd.in/gzAn3ECp)   
+- 👥 [LinkedIn](https://lnkd.in/gHqdDG4a)
 
 ## Visualizations
 The dashboard includes:
