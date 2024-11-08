@@ -26,8 +26,13 @@ The dashboard includes:
 - Tableau Desktop 2024.1
 - Dataset: ds_salaries.csv
 
+## Project Links:
+- 🎯 Interactive Dashboard on Tableau Public: https://lnkd.in/gzAn3ECp
+- 📊 GitHub Repository: https://lnkd.in/gf89DciJ 
+- 👥 LinkedIn: https://lnkd.in/gHqdDG4a
+
 ## How to Use
-1. Download the Tableau workbook from [here](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/4c2e384490a19a7d385b65d06d17f15413ace402/Salary_Analysis_Tableau_Dashboard.twb)
+1. Download the Tableau workbook from [here](https://lnkd.in/gzAn3ECp)
 2. Open in Tableau Desktop/Reader (2024.1 or later version)
 3. Open Dashboard workbook in presentation mode for interaction
 4. Interactive features:
