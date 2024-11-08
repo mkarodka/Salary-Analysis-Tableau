@@ -11,6 +11,11 @@ The analysis uses the DS Salaries dataset containing information about:
 - Remote work ratios
 
 **Data Source:** [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
+**Extracted Data:** [Data Science Job Salaries](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/808a79b45775c0cbcc8e521db7f87b7dc84b8e39/ds_salaries.hyper)
+
+## Project Links:
+- 🎯 Interactive Dashboard on Tableau Public: https://lnkd.in/gzAn3ECp
+- 👥 LinkedIn: https://lnkd.in/gHqdDG4a
 
 ## Visualizations
 The dashboard includes:
@@ -26,15 +31,13 @@ The dashboard includes:
 - Tableau Desktop 2024.1
 - Dataset: ds_salaries.csv
 
-## Project Links:
-- 🎯 Interactive Dashboard on Tableau Public: https://lnkd.in/gzAn3ECp
-- 👥 LinkedIn: https://lnkd.in/gHqdDG4a
-
 ## How to Use
-1. Download the Tableau workbook from [here](https://lnkd.in/gzAn3ECp)
-2. Open in Tableau Desktop/Reader (2024.1 or later version)
-3. Open Dashboard workbook in presentation mode for interaction
-4. Interactive features:
+1. Access the Tableau workbook publicly [here](https://lnkd.in/gzAn3ECp)
+2. Start interacting applying filters shown on dashboard
+3. You can open the dashboard workbook in Tableau Desktop/Reader (2024.1 or later version)
+4. Download extract file from [here](https://github.com/mkarodka/Salary-Analysis-Tableau/blob/808a79b45775c0cbcc8e521db7f87b7dc84b8e39/ds_salaries.hyper)
+5. Open Dashboard workbook in presentation mode for interaction
+6. Interactive features:
   - Filter by Company Location using dropdown
   - Filter by Job Title using dropdown
   - Hover over visualizations for detailed tooltips
