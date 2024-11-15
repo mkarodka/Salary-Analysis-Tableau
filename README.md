@@ -1,4 +1,4 @@
-# Salary Analysis Dashboard
+# Salary Analysis Tableau Dashboard
 
 ## Overview
 An interactive Tableau dashboard analyzing salary trends across different dimensions including experience levels, company sizes, and geographical locations in the Data Science field.
